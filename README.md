@@ -49,12 +49,26 @@
 
 <p>&nbsp;</p>
 
-## 📈 My Stats:     <a href="https://github.com/tiwadara"> <img src="https://komarev.com/ghpvc/?username=tiwadara&label=Profile+Views&color=2e8b57&style=flat" /></a>
+
+<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I like to write in <s>Python</s> Code and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
+
 <p align="center">
-<a href="https://github.com/tiwadara">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiwadara&count_private=true&show_icons=true&theme=gruvbox" /></a>
-<a href="https://github.com/tiwadara/">
-  <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwadara&layout=compact&theme=gruvbox" /></a>
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
+
+
+<p align="center">
+<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
+<a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
+</p>
+
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
+</p>
+
+![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
   
 <p>&nbsp;</p>
 
