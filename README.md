@@ -58,15 +58,4 @@
   
 <p>&nbsp;</p>
 
-## 🚀 My Projects:
-<p align="center">
-  <a href="https://github.com/tiwadara/Movie_Recommender_Engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tiwadara&repo=Movie_Recommender_Engine&theme=gruvbox" /></a>
-<a href="https://github.com/tiwadara/Clrd.">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tiwadara&repo=Clrd.&theme=gruvbox" /></a>
-<a href="https://github.com/tiwadara/Feedback_Management_System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tiwadara&repo=Feedback_Management_System&theme=gruvbox" /></a>
-<a href="https://github.com/tiwadara/SONGS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tiwadara&repo=SONGS&theme=gruvbox" /></a>
-
   ---
